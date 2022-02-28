@@ -95,4 +95,3 @@ reverse -i public -p 9001
 <br>
 <b>Please feel free to modify this!</b>
 <br>
-<center>Special thanks to https://github.com/MuirlandOracle for the quirky Bash help! </center> 
